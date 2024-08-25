@@ -2,6 +2,8 @@
 
 Welcome to the **Cube Apocalypse Manager**! This Python application is crafted to enhance your experience with the **Cube Apocalypse** modpack, a Minecraft modpack set in a thrilling zombie apocalypse.
 
+**NOTE: CubeApocalypseManager is in Beta Version Meaning that New Features will be added to Make Cube Apocalypse More Customizable and This is Not The Full version of The Cube Apocalypse Manager**
+
 ## Features
 
 - **Character-Based Starter Kits:** Customize your starter kits based on the characters available in the Cube Apocalypse modpack. Tailor your starting gear to match each character's unique attributes.
